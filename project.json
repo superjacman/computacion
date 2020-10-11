@@ -1,0 +1,66 @@
+{
+  "title": "Rompecabezas de Gianelli",
+  "author": "Ing. Germán Campero",
+  "date": "10/10/20",
+  "langCodes": [
+    "es"
+  ],
+  "languages": {
+    "es": "español"
+  },
+  "areaCodes": [
+    "div"
+  ],
+  "areas": {
+    "es": "Diversos"
+  },
+  "levelCodes": [
+    "INF"
+  ],
+  "levels": {
+    "es": "Infantil (3-6)"
+  },
+  "description": {
+    "es": "Para Sala de 3 años"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "puzzlegianelli4.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 12,
+  "mediaFiles": 19,
+  "totalSize": 897039,
+  "files": [
+    "favicon.ico",
+    "gianelli_dibujo-resized-puzzlegianelli4.jpg",
+    "gianelli_dibujo-resized.jpg",
+    "gianelli_dibujo_2-resized-puzzlegianelli4.jpg",
+    "gianelli_dibujo_2-resized.jpg",
+    "gianelli_dibujo_3-puzzlegianelli4.jpg",
+    "gianelli_dibujo_3.jpg",
+    "gianelli_dibujo_5-puzzlegianelli4.png",
+    "gianelli_dibujo_5.png",
+    "gianelli_para_ninos-puzzlegianelli4.jpg",
+    "gianelli_para_ninos.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "novena-resized-puzzlegianelli4.jpg",
+    "novena-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "puzzlegianelli3.jclic",
+    "puzzlegianelli3.jclic.js",
+    "puzzlegianelli4.jclic",
+    "puzzlegianelli4.jclic.js",
+    "sedtandevotos-puzzlegianelli4.mp3",
+    "sedtandevotos.mp3"
+  ]
+}
